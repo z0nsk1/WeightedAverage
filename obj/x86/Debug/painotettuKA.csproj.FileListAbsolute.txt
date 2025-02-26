@@ -1,0 +1,12 @@
+C:\Users\z0nsk1\source\repos\painotettuKA\painotettuKA\bin\Debug\painotettuKA.exe
+C:\Users\z0nsk1\source\repos\painotettuKA\painotettuKA\bin\Debug\painotettuKA.pdb
+C:\Users\z0nsk1\source\repos\painotettuKA\painotettuKA\obj\x86\Debug\painotettuKA.csprojAssemblyReference.cache
+C:\Users\z0nsk1\source\repos\painotettuKA\painotettuKA\obj\x86\Debug\painotettuKA.csproj.CoreCompileInputs.cache
+C:\Users\z0nsk1\source\repos\painotettuKA\painotettuKA\obj\x86\Debug\painotettuKA.exe
+C:\Users\z0nsk1\source\repos\painotettuKA\painotettuKA\obj\x86\Debug\painotettuKA.pdb
+C:\Lipastoo\source\repos\painotettuKA\painotettuKA\bin\Debug\painotettuKA.exe
+C:\Lipastoo\source\repos\painotettuKA\painotettuKA\bin\Debug\painotettuKA.pdb
+C:\Lipastoo\source\repos\painotettuKA\painotettuKA\obj\x86\Debug\painotettuKA.csproj.AssemblyReference.cache
+C:\Lipastoo\source\repos\painotettuKA\painotettuKA\obj\x86\Debug\painotettuKA.csproj.CoreCompileInputs.cache
+C:\Lipastoo\source\repos\painotettuKA\painotettuKA\obj\x86\Debug\painotettuKA.exe
+C:\Lipastoo\source\repos\painotettuKA\painotettuKA\obj\x86\Debug\painotettuKA.pdb
